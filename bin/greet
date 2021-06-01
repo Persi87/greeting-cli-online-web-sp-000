@@ -3,10 +3,8 @@ require_relative "../lib/greeting.rb"
 
 # code your CLI here!
 
-<<<<<<< HEAD
 puts "Hi! I'm HAL, what's your name?"
 name = gets.strip
 greeting(name) 
-=======
-name = gets.strip
->>>>>>> cc29f2ae3f88754a6e5e08fd75bf5c9565d2d5e4
+
+
